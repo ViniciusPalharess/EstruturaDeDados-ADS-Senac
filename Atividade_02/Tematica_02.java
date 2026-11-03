@@ -1,3 +1,5 @@
+package Atividade_02;
+
 import java.util.Scanner;
 
 public class Tematica_02 {
